@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rabbit-Hole/static/css/main.50cc5f9f.css",
+    "main.js": "/Rabbit-Hole/static/js/main.d7b2b863.js",
+    "static/js/453.eca5f793.chunk.js": "/Rabbit-Hole/static/js/453.eca5f793.chunk.js",
+    "index.html": "/Rabbit-Hole/index.html",
+    "main.50cc5f9f.css.map": "/Rabbit-Hole/static/css/main.50cc5f9f.css.map",
+    "main.d7b2b863.js.map": "/Rabbit-Hole/static/js/main.d7b2b863.js.map",
+    "453.eca5f793.chunk.js.map": "/Rabbit-Hole/static/js/453.eca5f793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cc5f9f.css",
+    "static/js/main.d7b2b863.js"
+  ]
+}
